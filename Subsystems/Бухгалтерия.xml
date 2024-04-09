@@ -50,7 +50,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Report.АнализПоступленияИПродаж</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОстаткиИПродажиТоваров</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.ОбычнаяСкидка</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ПроверочныйСправочник</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">efb883fd-25b1-450c-b237-b64cd6c7feb6</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
