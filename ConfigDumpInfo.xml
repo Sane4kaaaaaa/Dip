@@ -142,6 +142,10 @@
 		<Metadata name="Catalog.Номенклатура.Template.Печать.Template" id="80a39f43-26aa-49fc-bbb1-65cf315fbf72.0" configVersion="93624ca0c3d4e64cbfcd70de28299b8500000000"/>
 		<Metadata name="Catalog.Подразделения" id="9ca80152-f459-4a60-8439-69fdbae81389" configVersion="d30d8b63e9e42e479540c1302db7bff400000000"/>
 		<Metadata name="Catalog.Подразделения.Predefined" id="9ca80152-f459-4a60-8439-69fdbae81389.1c" configVersion="059c01ff84994b40b54bd87becaf6be500000000"/>
+		<Metadata name="Catalog.ПроверочныйСправочник" id="efb883fd-25b1-450c-b237-b64cd6c7feb6" configVersion="d5d048ff1b833740a48e688f42fb907e00000000">
+			<Metadata name="Catalog.ПроверочныйСправочник.Attribute.Кто" id="0997c447-5b71-433d-9929-11839f5011c5"/>
+			<Metadata name="Catalog.ПроверочныйСправочник.Attribute.Где" id="d72d6bfd-7a94-438c-984b-d7025a045abd"/>
+		</Metadata>
 		<Metadata name="Catalog.РасчетныеСчета" id="eef06196-10c2-40f8-9ddb-91f578fb6746" configVersion="5fec2be6df36da418435c445efbf400800000000">
 			<Metadata name="Catalog.РасчетныеСчета.Attribute.Банк" id="08cdef9b-ee30-43fc-8a73-87444be9dc58"/>
 			<Metadata name="Catalog.РасчетныеСчета.Attribute.МФО" id="7f81193c-cb53-408d-b81f-77d4a049d0ef"/>
@@ -193,7 +197,7 @@
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="80a7e2a4-9d53-4a25-9c41-2cfd781375d7.0" configVersion="a6746188d0dedf4a925ee88fd5e012f800000000"/>
 		<Metadata name="CommonModule.РаботаСоСправочниками" id="c4916f3a-8690-4442-898d-cc422e591f1b" configVersion="7ac1a83d507bdd47a8a89db61a28c82100000000"/>
 		<Metadata name="CommonModule.РаботаСоСправочниками.Module" id="c4916f3a-8690-4442-898d-cc422e591f1b.0" configVersion="d485612195446e45bd6eac0daaef8d2c00000000"/>
-		<Metadata name="Configuration.ИС22_МакароваАС" id="ade98f77-3113-4188-a992-84b95a53aa39" configVersion="6565274d9bde0a43b6df55391bde492a00000000"/>
+		<Metadata name="Configuration.ИС22_МакароваАС" id="ade98f77-3113-4188-a992-84b95a53aa39" configVersion="796997449a94aa49879ed20b680dfb7400000000"/>
 		<Metadata name="Configuration.ИС22_МакароваАС.SessionModule" id="574dec3d-adb1-4778-b1b6-8164b8e4933e.7" configVersion="c59787634868dc4a94525bfa27d32c9b00000000"/>
 		<Metadata name="Constant.НазваниеОрганизации" id="836a2599-5af9-42bc-a509-50c0e0ed5887" configVersion="85ee41015a164844824517dc36a3135800000000"/>
 		<Metadata name="Constant.ОбычнаяСкидка" id="f874202b-aa85-4dca-a663-093a99085603" configVersion="ecc9979758b4c345b08672619123dd3900000000"/>
@@ -649,7 +653,7 @@
 		<Metadata name="Role.ТолькоПросмотр.Rights" id="f0bd2ae4-ba5d-492f-850a-0c86107b9810.0" configVersion="692136f3ec16914d9ec1d3ac5d4feb7600000000"/>
 		<Metadata name="SessionParameter.ТекущийИсполнитель" id="3765405e-8b1e-4e3f-a8d8-3f0ea9765fe0" configVersion="9a147afbe50c2a4a84d0ace087c8dba200000000"/>
 		<Metadata name="Subsystem.БизнесПроцессы" id="22a7d06f-72a8-4f71-bbc6-e27e018fba44" configVersion="ebc84aa61c2f5440bc6d254ec531efa900000000"/>
-		<Metadata name="Subsystem.Бухгалтерия" id="4a7ae855-febf-4e22-af28-719ad3b9227d" configVersion="56f9a16e6e7bc548b011213ea0f3682000000000"/>
+		<Metadata name="Subsystem.Бухгалтерия" id="4a7ae855-febf-4e22-af28-719ad3b9227d" configVersion="4199b6ec02494547ba3c2cb3f3f7e2e800000000"/>
 		<Metadata name="Subsystem.Бухгалтерия.CommandInterface" id="4a7ae855-febf-4e22-af28-719ad3b9227d.1" configVersion="b5f7be0c83de1748ba580fe34b3ffcef00000000"/>
 		<Metadata name="Subsystem.Вспомогательное" id="8fa9a4a1-12e2-4b0d-a1a4-2eeb9496041a" configVersion="724cce5b4bd21443a6fb497bdc4049ee00000000"/>
 		<Metadata name="Subsystem.Вспомогательное.CommandInterface" id="8fa9a4a1-12e2-4b0d-a1a4-2eeb9496041a.1" configVersion="129d74da30232144b58092fcc9cbfa9900000000"/>
